@@ -1,0 +1,5 @@
+D:\ドキュメント\github\My-Experient\ConsoleApp1_test\bin\Debug\ConsoleApp1_test.exe.config
+D:\ドキュメント\github\My-Experient\ConsoleApp1_test\bin\Debug\ConsoleApp1_test.exe
+D:\ドキュメント\github\My-Experient\ConsoleApp1_test\bin\Debug\ConsoleApp1_test.pdb
+D:\ドキュメント\github\My-Experient\ConsoleApp1_test\obj\Debug\ConsoleApp1_test.exe
+D:\ドキュメント\github\My-Experient\ConsoleApp1_test\obj\Debug\ConsoleApp1_test.pdb

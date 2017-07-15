@@ -1,0 +1,12 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="WpfApplication1.MainWindow"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Margin="0,0,2,-6">
+        <Button Content="監視開始" HorizontalAlignment="Left" Margin="420,10,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBlock HorizontalAlignment="Left" Height="19" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="405"><Run Language="ja-jp" Text="z-logの監視を行います"/></TextBlock>
+        <ListBox Height="261" Margin="20,34,20,0" VerticalAlignment="Top" SelectionChanged="ListBox_SelectionChanged"/>
+
+    </Grid>
+</Window>

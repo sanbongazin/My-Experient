@@ -1,0 +1,2 @@
+c:\users\共用\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+c:\users\共用\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\zlog_processer.exe.config
